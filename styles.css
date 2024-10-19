@@ -1,1 +1,11 @@
 /* your code */
+table{
+    width: 100%;
+    border: none;
+}
+
+thead>tr>th{
+    text-align: left;
+    background-color: rgba(9, 134, 229, 0.603);
+    color: white;
+}
